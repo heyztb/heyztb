@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Zachary Blake. 
-- 👀 I am interested in web and systems development. Building up backends and APIs is what I do best.
-- 🌱 I’m currently learning more about algorithms and data structures. I'm also taking a look at [Rust](https://rust-lang.org). 
+- 👀 I am interested in web and systems development.
+- 🌱 I’m currently learning more about the Jamstack approach to building web applications. 
 - 🎮 I enjoy playing video games in my spare time. I'm currently playing Rocket League (but I'm not very good yet).
 - 📫 My email inbox stays at zero. If you send me an email, I will see it - ztb [at] pm [dot] me
