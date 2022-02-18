@@ -1,7 +1,5 @@
 - 👋🏻 Hi, my name is Zachary Blake, but I usually go by Zach.
-- 🧑🏻‍💻 Comfortable with Golang, JavaScript, PHP, and Python.
-- 🌱 Currently learning [Rust](https://rust-lang.org).
+- 🧑🏻‍💻 I'm building things on Ethereum and Solana
 - 🐶 x2, 🐱 x1 
-- 🎮 Currently enjoying Forza Horizon 5 in my spare time.
 - 🐦 [@heyztb](https://twitter.com/heyztb)
 - 📭 ztb [at] pm [dot] me
