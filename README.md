@@ -1,5 +1,5 @@
 - 👋🏻 Hi, my name is Zachary Blake, but I usually go by Zach.
-- 🧑🏻‍💻 I'm building things on Ethereum and Solana
+- 🧑🏻‍💻 I'm building things on [Ethereum](https://ethereum.org) and [Solana](https://solana.com)
 - 🐶 x2, 🐱 x1 
 - 🐦 [@heyztb](https://twitter.com/heyztb)
 - 📭 ztb [at] pm [dot] me
