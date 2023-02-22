@@ -1,5 +1,6 @@
 - 👋🏻 Hi, my name is Zachary Blake, but I usually go by Zach.
-- 🧑🏻‍💻 I'm building things @ [Sightline Payments](https://sightlinepayments.com)
+- 🧑🏻‍💻 Backend Engineer @ [Sightline Payments](https://sightlinepayments.com)
+- 🚀 Building & shipping apps in my free time (see pinned repos, or [here](https://ztb.dev/projects))
 - 🐶 x2, 🐱 x1 
 - 🐦 [@heyztb](https://twitter.com/heyztb)
 - 📭 ztb [at] pm [dot] me
