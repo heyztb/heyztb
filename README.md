@@ -3,4 +3,4 @@
 - 🚀 Building & shipping apps in my free time (see pinned repos, or [here](https://ztb.dev/projects))
 - 🐶 x2, 🐱 x1 
 - 🐦 [@heyztb](https://twitter.com/heyztb)
-- 📭 ztb [at] pm [dot] me
+- 📭 hi [at] ztb [dot] dev
